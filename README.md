@@ -1,20 +1,20 @@
 # Top20-Ranking-Countries-using-Tableau
 
 
-# I have created Top20 Ranking Countries Dashboard with following Visualization analysis below
+ I have created Top20 Ranking Countries Dashboard with following Visualization analysis below
 
 
-# Top20 Ranking Countries GDP Per Capita
+ Top20 Ranking Countries GDP Per Capita
 
 
-# Top20 Ranking Countries Life Expectancy at birth
+ Top20 Ranking Countries Life Expectancy at birth
 
 
-# Top20 Ranking Countries by Smartphone users
+ Top20 Ranking Countries by Smartphone users
 
 
 
-# Tableau Link to Dashboard 1
+ Tableau Link to Dashboard 1
 
 
 https://public.tableau.com/views/Top20RankingCountries/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
